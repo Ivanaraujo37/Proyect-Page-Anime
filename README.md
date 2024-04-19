@@ -1,6 +1,6 @@
 <style>
   body {
-    background-image: url('ruta/a/tu/imagen/de/fondo.jpg');
+    background-image: url('https://github.com/Ivanaraujo37/Proyect-Page-Anime/raw/main/Preview_pagina-anime.jpg');
     background-size: cover;
     background-position: center;
     color: white; /* Cambia el color del texto si es necesario para que se vea bien sobre el fondo */
