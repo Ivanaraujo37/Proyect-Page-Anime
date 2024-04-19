@@ -1,12 +1,3 @@
-<style>
-  body {
-    background-image: url('https://github.com/Ivanaraujo37/Proyect-Page-Anime/raw/main/Preview_pagina-anime.jpg');
-    background-size: cover;
-    background-position: center;
-    color: white; /* Cambia el color del texto si es necesario para que se vea bien sobre el fondo */
-  }
-</style>
-
 # Generador de Anime Aleatorio en React
 
 * En mi primer proyecto, debí transformar mi página HTML, CSS y JS a React. Para ello, opté por utilizar la API de Jikan para generar sugerencias de anime aleatorias.
