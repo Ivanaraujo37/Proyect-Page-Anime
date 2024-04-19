@@ -9,26 +9,8 @@ Mi primer proyecto en solitario utilizando React, utilizando la API de Jikan par
 2. Escribe `npm install` en la terminal para instalar los paquetes necesarios
 
 ### Uso
-* Haz clic en el botón para copiar: <kbd>npm run dev</kbd> ![copy-button](https://img.shields.io/badge/-Copy-blue?style=flat-square&logo=copy&logoColor=white)
-* Haz clic en el botón para copiar: <kbd>npm run build</kbd> ![copy-button](https://img.shields.io/badge/-Copy-blue?style=flat-square&logo=copy&logoColor=white)
-
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-    const copyButtons = document.querySelectorAll('.copy-button');
-
-    copyButtons.forEach(button => {
-        button.addEventListener('click', () => {
-            const textToCopy = button.previousElementSibling.innerText.trim();
-
-            navigator.clipboard.writeText(textToCopy).then(() => {
-                console.log('Text copied to clipboard');
-            }).catch(err => {
-                console.error('Error copying text: ', err);
-            });
-        });
-    });
-});
-</script>
+* Escribe `npm run dev` para ejecutar el entorno de desarrollo
+* Escribe `npm run build` para compilar el proyecto
 
 ## Logros y Desafíos
 ### Logros
