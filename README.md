@@ -29,4 +29,5 @@ Mi primer proyecto en solitario utilizando React, utilizando la API de Jikan par
 * Agregar una barra de búsqueda para buscar anime
 
 ## Aspecto Final
-![screencapture-random-anime-react-netlify-app-random-2022-05-10-21_34_03](https://user-images.githubusercontent.com/92634994/167717728-ec47ebcd-9dc2-4aeb-824a-a4afa877cece.png)
+![Vista previa de la página de anime](https://github.com/Ivanaraujo37/Proyect-Page-Anime/raw/main/Preview_pagina-anime.jpg)
+
