@@ -1,6 +1,6 @@
 # Generador de Anime Aleatorio en React
 
-Mi primer proyecto en solitario utilizando React, utilizando la API de Jikan para hacer sugerencias de anime aleatorias.
+* En mi primer proyecto, debí transformar mi página HTML, CSS y JS a React. Para ello, opté por utilizar la API de Jikan para generar sugerencias de anime aleatorias.
 
 ## Instalación y Uso
 
