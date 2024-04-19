@@ -9,8 +9,8 @@ Mi primer proyecto en solitario utilizando React, utilizando la API de Jikan par
 2. Escribe `npm install` en la terminal para instalar los paquetes necesarios
 
 ### Uso
-* Escribe `npm run dev` para ejecutar el entorno de desarrollo
-* Escribe `npm run build` para compilar el proyecto
+* Escribe ```npm run dev``` para ejecutar el entorno de desarrollo
+* Escribe ```npm run build``` para compilar el proyecto
 
 ## Logros y Desafíos
 ### Logros
